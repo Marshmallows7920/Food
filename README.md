@@ -39,6 +39,7 @@ A Masterlist Food Places in Winnipeg
  * St. James Burger & Chip Co.
  * The Burger Place
  * Big Smoke Burger
+ * Canadian Brewhouse
 
 ## Boba:
  * Gong Cha
