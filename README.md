@@ -1,12 +1,12 @@
 # Food
 A Masterlist Food Places in Winnipeg
 
-##African:
+## African:
  * AFV Groceries and Takeout
  * Gojo Restaurant
  * Harman’s Cafe
 
-##All-You-Can-Eat:
+## All-You-Can-Eat:
  * Ye’s Buffet
  * IGI
  * Magic Sushi & Wok
@@ -16,7 +16,7 @@ A Masterlist Food Places in Winnipeg
  * Carnaval Brazilian BBQ
  * A+ Sushi
 
-##Bakeries and Pastries:
+## Bakeries and Pastries:
  * À l’Épi de Blé
  * Jimel’s Bakery
  * 88 Mart
@@ -24,14 +24,14 @@ A Masterlist Food Places in Winnipeg
  * La Belle Baguette
  * Marcel’s Bakery
 
-##BBQ:
+## BBQ:
  * Famous Dave’s
  * Montana’s
  * Carnaval Brazilian BBQ
  * Tony Roma’s
  * Lovey’s
 
-##Burgers:
+## Burgers:
  * Five Guys
  * VJ’s Drive Inn
  * North Star Drive-Inn
@@ -40,7 +40,7 @@ A Masterlist Food Places in Winnipeg
  * The Burger Place
  * Big Smoke Burger
 
-##Boba:
+## Boba:
  * Gong Cha
  * Khab Tapioca
  * Chatime
@@ -49,7 +49,7 @@ A Masterlist Food Places in Winnipeg
  * Incha
  * Asia City
 
-##Breakfast:
+## Breakfast:
  * The Country Porch Café and Ice Cream
  * Salisbury House
  * Cora’s Breakfast
@@ -57,7 +57,7 @@ A Masterlist Food Places in Winnipeg
  * Ben & Florentine
  * Clementines
 
-##Casual Dining:
+## Casual Dining:
  * Johnny G’s
  * Clementine’s
  * Kevin’s Bistro
@@ -72,11 +72,11 @@ A Masterlist Food Places in Winnipeg
  * Smitty’s
  * The Tallest Poppy
 
-##Carribean:
+## Carribean:
  * Famena’s Roti & Curry
  * Deen’s Caribbean Restaurant
 
-##Chicken:
+## Chicken:
  * Clubhouse Chicken & Pizza
  * Jollibee
  * Pizza Bite
@@ -86,7 +86,7 @@ A Masterlist Food Places in Winnipeg
  * Wild Wings
  * Popeye’s
 
-##Chinese:
+## Chinese:
  * Mitzi’s
  * Sun Fortune
  * Fortune Cooking
@@ -99,18 +99,18 @@ A Masterlist Food Places in Winnipeg
  * Ocean King
  * Noodle Express
 
-##Dim Sum:
+## Dim Sum:
  * Sam Po Dim Sum
  * Kum Koon Garden
  * Dim Sum Garden
 
-##Donuts:
+## Donuts:
  * Oh Doughnuts
  * Bronuts
  * Tim Hortons
  * Robins Donuts
 
-##Fast Food:
+## Fast Food:
  * McDonald’s
  * A&W
  * Wendy’s
@@ -118,7 +118,7 @@ A Masterlist Food Places in Winnipeg
  * KFC
  * Smoke’s Poutinerie
 
-##Filipino:
+## Filipino:
  * Mangkok
  * Mar’s Sisig
  * Salakot
@@ -127,7 +127,7 @@ A Masterlist Food Places in Winnipeg
  * Myrna’s Café
  * Jeepney
 
-##Ice Cream/Dessert:
+## Ice Cream/Dessert:
  * BDI
  * Chaeban
  * Sargent Sundae
@@ -139,7 +139,7 @@ A Masterlist Food Places in Winnipeg
  * Milksmith
  * Eva’s Gelato
 
-##Indian/South Asian:
+## Indian/South Asian:
  * East India Company
  * Clay Oven
  * Copper Chimney
@@ -147,13 +147,13 @@ A Masterlist Food Places in Winnipeg
  * Charisma
  * Barbecue Hut Pakistani Grill
 
-##Italian:
+## Italian:
  * Buccacino’s Cucina Italiana
  * Bellissimo Restaurant & Lounge
  * Vera Pizzeria
  * Tre Visi
 
-##Japanese:
+## Japanese:
  * Dwarf No Cachette
  * GaiJin Izakaya
  * Yujiro
@@ -162,7 +162,7 @@ A Masterlist Food Places in Winnipeg
  * Mo Mo
  * Ichiban Japanese Steakhouse
 
-Korean:
+## Korean:
  * Dowon
  * Kimbaek
  * Little Korea
@@ -170,7 +170,7 @@ Korean:
  * KimChi Korean Delight
  * Mo Mo 
 
-##Middle Eastern:
+## Middle Eastern:
  * Baraka Pita Bakery
  * Les Saj
  * Ramallah Cafe
@@ -180,11 +180,11 @@ Korean:
  * George’s Inn and Submarines
  * Best Pizza and Donair
 
-##Mexican/South American:
+## Mexican/South American:
  * BMC Market
  * La Pampa Empanadas
 
-##Pizza (Fast Food):
+## Pizza (Fast Food):
  * Za
  * Rebel Pizza
  * Domino’s
@@ -193,7 +193,7 @@ Korean:
  * Pizza Hut
  * Little Pizza Heaven
 
-##$$-$$$:
+## $$-$$$:
  * The Keg
  * Earl’s
  * Moxie’s
@@ -204,17 +204,17 @@ Korean:
  * La Carnita
  * Peasant Cookery
 
-##$$$$
+## $$$$
  * The Gates on Roblin
  * 529 Wellington
  * Hy’s
 
-##Seafood:
+## Seafood:
  * Fergie’s Fish and Chips
  * Captain’s Boil
  * Joey’s Seafood
 
-##Sushi
+## Sushi
  * Magic Sushi
  * Sushi Jet
  * Kimchi Sushi
@@ -223,14 +223,14 @@ Korean:
  * Asoyama Sushi
  * Kazoku
 
-##Thai:
+## Thai:
  * Siam Thai
  * Thida’s Thai
  * Tom Yum Thai
  * Shaba Thai
  * Mikan Sushi
 
-##Vietnamese:
+## Vietnamese:
  * Mama’s Noodle House
  * Pho Hoang
  * T H Dang
