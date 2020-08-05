@@ -1,5 +1,7 @@
-# Food
-A Masterlist Food Places in Winnipeg
+# **Food**
+**A Masterlist of Food Places in Winnipeg**
+
+> This list only contains places that had good recommendations, feel free to add to it if you have any reccomendations.
 
 ## African:
  * AFV Groceries and Takeout
