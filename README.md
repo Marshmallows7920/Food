@@ -237,3 +237,4 @@ A Masterlist Food Places in Winnipeg
  * Vi Ann
  * Pho No 1 Restaurant
  * Phuong Nam
+ * Banh Mi King
