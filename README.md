@@ -1,7 +1,7 @@
 # **Food**
 **A Masterlist of Food Places in Winnipeg**
 
-> This list only contains places that had good recommendations, feel free to add to it if you have any reccomendations.
+> This list only contains places that had good recommendations, feel free to add to it if you have any recommendations.
 
 ## African:
  * AFV Groceries and Takeout
@@ -17,6 +17,7 @@
  * Idol Hotpot
  * Carnaval Brazilian BBQ
  * A+ Sushi
+ * Foody Goody
 
 ## Bakeries and Pastries:
  * À l’Épi de Blé
@@ -42,6 +43,7 @@
  * The Burger Place
  * Big Smoke Burger
  * Canadian Brewhouse
+ * Harvey's
 
 ## Boba:
  * Gong Cha
@@ -74,6 +76,9 @@
  * Stella’s
  * Smitty’s
  * The Tallest Poppy
+ * Kawaii Crepe
+ * IKEA Restaurant
+ * Denny's
 
 ## Carribean:
  * Famena’s Roti & Curry
@@ -88,6 +93,7 @@
  * Little Bones Wings
  * Wild Wings
  * Popeye’s
+ * Chicken Chef
 
 ## Chinese:
  * Mitzi’s
@@ -120,6 +126,8 @@
  * Burger King
  * KFC
  * Smoke’s Poutinerie
+ * Dairy Queen
+ * Costco
 
 ## Filipino:
  * Mangkok
@@ -129,6 +137,9 @@
  * Rice Bowl
  * Myrna’s Café
  * Jeepney
+ * HK Snow Cafe
+ * Seafood City
+ * Max's Restaurant
 
 ## Ice Cream/Dessert:
  * BDI
@@ -141,6 +152,7 @@
  * Neon Cone
  * Milksmith
  * Eva’s Gelato
+ * Baked Expectations
 
 ## Indian/South Asian:
  * East India Company
@@ -195,6 +207,8 @@
  * Flying Pizza
  * Pizza Hut
  * Little Pizza Heaven
+ * Santa Lucia Pizza
+ * Little Caesar's
 
 ## $$-$$$:
  * The Keg
@@ -241,3 +255,8 @@
  * Pho No 1 Restaurant
  * Phuong Nam
  * Banh Mi King
+ 
+## Coffee:
+ * Second Cup
+ * Little Sister Coffee Maker
+ * Maison du Saïgon
