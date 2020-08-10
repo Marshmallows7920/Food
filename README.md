@@ -107,6 +107,7 @@
  * Asia City (Jefferson)
  * Ocean King
  * Noodle Express
+ * Logan Corner Restaurant
 
 ## Dim Sum:
  * Sam Po Dim Sum
