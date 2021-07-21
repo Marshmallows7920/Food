@@ -141,6 +141,7 @@
  * HK Snow Cafe
  * Seafood City
  * Max's Restaurant
+ * Grassmere Family Restaurant
 
 ## Ice Cream/Dessert:
  * BDI
