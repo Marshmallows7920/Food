@@ -142,6 +142,7 @@
  * Seafood City
  * Max's Restaurant
  * Grassmere Family Restaurant
+ * Foodtrip Kitchen
 
 ## Ice Cream/Dessert:
  * BDI
